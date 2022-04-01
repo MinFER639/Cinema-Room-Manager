@@ -1,2 +1,4 @@
 # Cinema-Room-Manager
-Second Java project from JetBrains Academy
+My second Java project from JetBrains Academy.
+
+Application that helps manage a cinema theatre: sell tickets, check available seats, see sales statistics, and more.
